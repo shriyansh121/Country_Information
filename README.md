@@ -1,2 +1,14 @@
 # Country_Information
-An interactive Streamlit app that extracts and displays country information from Wikipedia. Using BeautifulSoup for web scraping and regex for data extraction, this app stores data in JSON format, allowing users to view key country details like area, population, capital, and official languages through a user-friendly dropdown menu.
+
+## Overview
+
+This project extracts detailed country information from Wikipedia, processes and structures the data, and displays it in an interactive web app using Streamlit. The app allows users to select a country, view key information (e.g., area, capital, languages, population), and view the country’s flag. 
+
+# Table of Contents:
+
+1. Project Overview
+2. Technologies Used
+3. Data Extraction
+4. Data Processing
+5. JSON Conversion
+6. Streamlit Web App Deployment
