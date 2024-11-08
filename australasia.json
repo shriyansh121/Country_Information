@@ -1,0 +1,150 @@
+{
+    "Austrlia": {
+        "Country": "Commonwealth of Australia",
+        "Capital": "Canberra",
+        "Largest City": "Sydney",
+        "Official Language": "English",
+        "Currency": "Australian dollar",
+        "National Anthem": " Advance Australia Fair ",
+        "National Flag": "Coat of arms",
+        "Demonym": "Australian",
+        "Total Area": "7,688,287",
+        "Water (%)": "1.79"
+    },
+    "New Zealand": {
+        "Country": "New Zealand Aotearoa ( M\u0101ori )",
+        "Capital": "Wellington",
+        "Largest City": "Auckland",
+        "Official Language": "English",
+        "Currency": "New Zealand dollar",
+        "National Flag": "Coat of arms",
+        "Demonym": "New Zealander Kiwi",
+        "Total Area": "268,021",
+        "Water (%)": "1.6"
+    },
+    "Papua New Guinea": {
+        "Country": "Independent State of Papua New Guinea Independen Stet bilong Papua Niugini ( Tok Pisin ) Independen Stet bilong Papua Niu Gini ( Hiri Motu )",
+        "Capital": "Port Moresby",
+        "Largest City": "Port Moresby",
+        "Official Language": "English",
+        "Currency": "Kina",
+        "National Anthem": " O Arise, All You Sons ",
+        "National Flag": "National emblem",
+        "Demonym": "Papua",
+        "Total Area": "462,840",
+        "Water (%)": "2"
+    },
+    "Nauru": {
+        "Country": "Republic of Nauru Repubrikin Naoero ( Nauruan ) [ 1 ]",
+        "Capital": "None",
+        "Largest City": "Denigomodu",
+        "Official Language": "English",
+        "Currency": "Australian dollar",
+        "National Anthem": "Nauru, our homeland",
+        "National Flag": "Coat of arms",
+        "Demonym": "Nauruan",
+        "Total Area": "21",
+        "Water (%)": "0.57"
+    },
+    "Palau": {
+        "Country": "Republic of Palau Beluu er a Belau ( Palauan )",
+        "Capital": "Ngerulmud",
+        "Largest City": "Koror",
+        "Official Language": "Palauan English",
+        "Currency": "United States dollar",
+        "National Flag": "Seal",
+        "Demonym": "Palauan",
+        "Total Area": "459"
+    },
+    "Solomon Islands": {
+        "Country": "Solomon Islands Solomon Aelan ( Pijin )",
+        "Capital": "Honiara",
+        "Largest City": "Honiara",
+        "Official Language": "English Pijin",
+        "Currency": "Solomon Islands dollar",
+        "National Anthem": " God Save Our Solomon Islands ",
+        "National Flag": "Coat of arms",
+        "Demonym": "Solomon Islander Solomonese",
+        "Total Area": "28,896",
+        "Water (%)": "3.2"
+    },
+    "Vanuatu": {
+        "Country": "Republic of Vanuatu Ripablik blong Vanuatu ( Bislama ) R\u00e9publique de Vanuatu ( French )",
+        "Capital": "Port Vila",
+        "Largest City": "Port Vila",
+        "Official Language": "Bislama English French",
+        "Currency": "Vatu",
+        "National Anthem": " Yumi, Yumi, Yumi ",
+        "National Flag": "Coat of arms",
+        "Demonym": "Ni-Vanuatu",
+        "Total Area": "12,189"
+    },
+    "Fiji": {
+        "Country": "Republic of Fiji Matanitu Tugalala o Viti ( Fijian ) \u092b\u093c\u093f\u091c\u0940 \u0917\u0923\u0930\u093e\u091c\u094d\u092f Fij\u012b Ga\u1e47ar\u0101jya ( Fiji Hindi )",
+        "Capital": "Suva",
+        "Largest City": "Suva",
+        "Official Language": "English",
+        "Currency": "Fijian dollar",
+        "National Anthem": " God Bless Fiji ",
+        "National Flag": "Coat of arms",
+        "Demonym": "Fijian",
+        "Total Area": "18,274"
+    },
+    "Tuvalu": {
+        "Country": "Tuvalu Tuvalu ( Tuvaluan )",
+        "Capital": "Funafuti",
+        "Largest City": "Funafuti",
+        "Official Language": "Tuvaluan English",
+        "Currency": "Tuvaluan dollar Australian dollar",
+        "National Anthem": "Tuvalu mo te Atua",
+        "National Flag": "Coat of arms",
+        "Demonym": "Tuvaluan",
+        "Total Area": "26"
+    },
+    "Tonga": {
+        "Country": "Kingdom of Tonga Pule\u02bbanga Fakatu\u02bbi \u02bbo Tonga ( Tongan )",
+        "Capital": "Nuku",
+        "Largest City": "Nuku",
+        "Official Language": "Tongan English",
+        "Currency": "Pa\u02bbanga",
+        "National Anthem": " Ko e fasi \u02bbo e tu\u02bbi \u02bbo e \u02bbOtu Tonga ",
+        "National Flag": "Coat of arms",
+        "Demonym": "Tongan",
+        "Total Area": "748",
+        "Water (%)": "4.0"
+    },
+    "Samoa": {
+        "Country": "Independent State of Samoa Malo Sa\u02bboloto Tuto\u02bbatasi o S\u0101moa ( Samoan )",
+        "Capital": "Apia",
+        "Largest City": "Apia",
+        "Official Language": "English",
+        "Currency": "T\u0101l\u0101",
+        "National Anthem": "The Banner of Freedom",
+        "National Flag": "Coat of arms",
+        "Demonym": "Samoan",
+        "Total Area": "2,831",
+        "Water (%)": "0.3"
+    },
+    "Kiribati": {
+        "Country": "Republic of Kiribati Ribaberiki Kiribati ( Gilbertese )",
+        "Capital": "Tarawa",
+        "Largest City": "South Tarawa",
+        "Official Language": "English Gilbertese",
+        "Currency": "Australian dollar",
+        "National Anthem": "Song of Kiribati",
+        "National Flag": "Coat of arms",
+        "Demonym": "I-Kiribati",
+        "Total Area": "811"
+    },
+    "Marshall Islands": {
+        "Country": "Republic of the Marshall Islands Aolep\u0101n Aor\u014dkin \u1e42aje\u1e37 ( Marshallese )",
+        "Capital": "Majuro",
+        "Largest City": "Majuro",
+        "Official Language": "Marshallese English",
+        "Currency": "United States dollar",
+        "National Anthem": " Forever Marshall Islands ",
+        "National Flag": "Seal",
+        "Demonym": "Marshallese",
+        "Total Area": "181"
+    }
+}
