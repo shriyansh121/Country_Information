@@ -4,3 +4,4 @@ requests==2.31.0  # Required by BeautifulSoup for HTTP requests
 regex==2023.10.3  # Alternative to re for advanced regex handling (optional)
 jsonlib-python3==1.6.1  # For handling JSON files (optional, built-in in Python 3)
 streamlit==1.25.0  # For building the interactive web app
+Pillow>=8.0
